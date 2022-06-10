@@ -22,6 +22,7 @@
 #define GDB_O_APPEND    0x8
 #define GDB_O_CREAT     0x200
 #define GDB_O_TRUNC     0x400
+#define GDB_O_EXCL      0x800
 
 #define GDB_S_IRUSR     0400
 #define GDB_S_IWUSR     0200
